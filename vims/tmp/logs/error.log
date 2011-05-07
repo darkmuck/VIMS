@@ -1,0 +1,2 @@
+2009-01-26 12:24:49 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/content/d/a/r/darkmuck/html/dev/mis450/app/models/user.php:32) in [CORE/cake/libs/controller/controller.php, line 615]
+2009-01-26 12:24:53 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/content/d/a/r/darkmuck/html/dev/mis450/app/models/user.php:32) in [CORE/cake/libs/controller/controller.php, line 615]
